@@ -1,20 +1,7 @@
 {
-  "version_code": 2147483647,
-  "title_update": "Pembaruan BMWhatsApp Tersedia!",
-  "title_made_by": "𝘽𝙐𝙆𝘼𝙉 𝙈𝘼𝙎𝙏𝘼𝙃",
-  "title_color": "#1E90FF",
-  "description": [
-    "Performa BMWhatsApp kini lebih ringan & cepat",
-    "Keamanan aplikasi ditingkatkan",
-    "Tampilan baru yang lebih modern dan elegan"
-  ],
-  "notes": [
-    "Optimalisasi kecepatan dan stabilitas",
-    "Fitur anti-bug dan perlindungan privasi terbaru",
-    "Desain UI baru dengan gaya profesional",
-    "Lihat panduan update & bantuan di channel resmi"
-  ],
-  "telegram_link": "https://t.me/bukan_mastah_id",
-  "update_link": "https://bmwhatsapp.co.id/update",
-  "dialog_exit_on_false": true
+  "version": 2147483647,
+  "title": "New Update Available",
+  "subtitle": "Update Your Application",
+  "closeButton": false,
+  "link": "https://www.dpmods.com"
 }
