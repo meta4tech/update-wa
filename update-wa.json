@@ -1,7 +1,5 @@
 {
-  "version": 2147483647999,
-  "title": "New Update Available",
-  "subtitle": "Update Your Application",
-  "closeButton": false,
-  "link": "https://www.dpmods.com"
+  "version": "v26.2.0",
+  "url_download": "https://example.com/download.apk",
+  "changelog": "Perbaikan bug A - Fitur baru B"
 }
