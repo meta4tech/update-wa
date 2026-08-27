@@ -1,5 +1,9 @@
 {
-  "version": "v26.2.0",
-  "url_download": "https://example.com/download.apk",
-  "changelog": "Perbaikan bug A - Fitur baru B"
+  "bmwhatsapp_msg": [
+    {
+      "version": "V26.2.0",
+      "download": "https://github.com/meta4tech/update-wa/releases/download/v26.2.0/BMWhatsApp.apk",
+      "description": "Fix bug - Improve performance - Add new features"
+    }
+  ]
 }
