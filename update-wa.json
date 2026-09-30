@@ -1,7 +1,7 @@
 {
-  "inwhatsapp_update": [
+  "bmwhatsapp_msg": [
     {
-      "version": "1.0.0",
+      "version": "V26.0.0",
       "download": "https://github.com/meta4tech/update-wa/releases/download/v26.2.0/BMWhatsApp.apk",
       "description": "Fix bug - Improve performance - Add new features"
     }
